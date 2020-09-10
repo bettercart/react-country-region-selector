@@ -1,6 +1,6 @@
 {
   "name": "@bettercart/react-country-region-selector",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Country and Region dropdowns designed to work with @bettercart/country-region-data",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -44,6 +44,6 @@
   ],
   "homepage": "https://www.getbettercart.com",
   "dependencies": {
-    "@bettercart/country-region-data": "^0.0.6"
+    "@bettercart/country-region-data": "^0.0.7"
   }
 }

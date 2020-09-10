@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bettercart/country-region-data@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@bettercart/country-region-data/-/country-region-data-0.0.6.tgz#cf399432072d38f6b67adebeeedb3de491c20fee"
-  integrity sha512-8naf1s7pQ7E3sZSj8PBQDMKL8v7/PZtQGe1oRpF1iQNxzlgHy4hPcI/uJ6+e2pHBxVvKoF2ps4Eqcz8ecLKakQ==
+"@bettercart/country-region-data@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@bettercart/country-region-data/-/country-region-data-0.0.7.tgz#4ea6a15f2c2d769e94e1e7df5bb9d40e840104cb"
+  integrity sha512-nkq6pgcrmZKVgDiRFFWweqIMHcsPlby0Wd5n156X7j2sf19hrzTCgdwisvECCFuJY9PBtDB0VNtmryV7a5JRDg==
 
 "@rollup/plugin-auto-install@^2.1.0":
   version "2.1.0"
