@@ -4,7 +4,7 @@
   "description": "Country and Region dropdowns designed to work with @bettercart/country-region-data",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "repository": "https://github.com/Better-Cart-Inc/react-country-region-selector",
+  "repository": "https://github.com/bettercart/react-country-region-selector",
   "author": "Better Cart Inc",
   "license": "MIT",
   "scripts": {
