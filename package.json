@@ -1,0 +1,9 @@
+{
+  "name": "@bettercart/react-country-region-selector",
+  "version": "0.0.1",
+  "description": "Country and Region dropdowns designed to work with @bettercart/country-region-data",
+  "main": "dist/main.js",
+  "repository": "https://github.com/Better-Cart-Inc/react-country-region-selector",
+  "author": "Better Cart Inc",
+  "license": "MIT"
+}
