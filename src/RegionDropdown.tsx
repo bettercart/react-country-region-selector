@@ -17,6 +17,7 @@ const RegionDropdown = ({
   whitelist = undefined,
   blacklist = undefined,
   disabled = false,
+  ...arbitraryProps
 }: RegionDropdownProps) => {
   const { data } = React.useContext(CRProviderContext)
 
@@ -33,6 +34,7 @@ const RegionDropdown = ({
   }, [countryData])
 
   const attrs = {
+    ...arbitraryProps,
     value,
     onChange: (e: React.ChangeEvent<HTMLSelectElement>): void => onChange(e.target.value, e),
     onBlur: (e: React.ChangeEvent<HTMLSelectElement>): void => onBlur(e.target.value, e),
