@@ -1,4 +1,7 @@
 import * as React from 'react'
+import { Country } from '@bettercart/country-region-data'
+
+export const CountryRegionData: Country[]
 
 export interface CountryDropdownProps<T = Element> {
   /**
@@ -92,6 +95,7 @@ export class CountryDropdown extends React.Component<CountryDropdownProps> {}
 export interface RegionFilters {
   [key: string]: string[]
 }
+
 export interface RegionDropdownProps<T = Element> {
   /**
    * The currently selected country.
